@@ -1,6 +1,6 @@
 Olá todos! 👋
 
-Me chamo Wellington e este é o meu repositório onde posto meu projetos a respeito do que venho estudando.
+Me chamo Wellington e este é o meu repositório onde posto meus aprendizados e projetos a respeito do que venho estudando.
 
 # HTML5, CSS3, JAVASCRIPT, PHP, LARAVEL, GIT, MYSQL
 
