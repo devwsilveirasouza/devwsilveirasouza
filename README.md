@@ -1,10 +1,10 @@
 Olá todos! 👋
 
-Me chamo Wellington e este é o meu repositório onde posto meus aprendizados e projetos a respeito do que venho estudando.
+Me chamo Wellington e este é o meu repositório de aprendizados e projetos a respeito do que venho estudando.
 
-# HTML5, CSS3, JAVASCRIPT, PHP, LARAVEL, GIT, MYSQL
+Conhecimentos: HTML5, CSS3, JAVASCRIPT, PHP, LARAVEL, GIT, MYSQL
 
-# Estou a procura de uma oportunidade como desenvolvedor web backend.
+Estou em busca da oportunidade de me tornar um desenvolvedor web backend professional.
 
- # Até lá continuo meus estudos diários.
+ Enquanto não acontece continuo meus projetos pessoais.
  
