@@ -2,7 +2,7 @@ Olá todos! 👋
 
 Este é o meu repositório de aprendizados e projetos a respeito do que venho estudando.
 
-Conhecimentos: HTML5, CSS3, JAVASCRIPT, PHP, LARAVEL, GIT, MYSQL, BOOTSTRAP, JAVA em andamento.
+Conhecimentos: HTML5, CSS3, JAVASCRIPT, PHP, LARAVEL, GIT, MYSQL, BOOTSTRAP.
  
  ## Estatísticas de como estou ##
  
